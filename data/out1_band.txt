@@ -1,0 +1,10 @@
+score = 10
+entries = 65
+
+>seq1
+
+tga-caat
+
+>seq2
+
+tgagc-at
